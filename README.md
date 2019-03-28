@@ -22,7 +22,7 @@ Chapter One introduces algorithms conceptually, Chapter Two introduces Python co
 - Handling Data Duplication and Missing Values
 - Working with Stacks and Queues
 - Using Dictionaries/Hash Maps
-- Working with Trees & Binary Search Tree Example
+- Working with Trees
 - Using Dictionaries for Graph Relations
 
 ### Chapter 7
