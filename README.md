@@ -24,3 +24,13 @@ Chapter One introduces algorithms conceptually, Chapter Two introduces Python co
 - Using Dictionaries/Hash Maps
 - Working with Trees & Binary Search Tree Example
 - Using Dictionaries for Graph Relations
+
+### Chapter 7
+- Introducing Sorting Algorithms
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+### Algorithim Implementation Practice
+- Return Number of Common Elements Between Datasets
