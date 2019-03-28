@@ -27,10 +27,18 @@ Chapter One introduces algorithms conceptually, Chapter Two introduces Python co
 
 ### Chapter 7
 - Introducing Sorting Algorithms
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+- Using Search Trees & Heaps
+  - Binary Search Tree
+  - Min Heap
+- Relying on Hashing
+  - Introducing Hash Tables
+  - Avoiding Collisions
+  - Addressing Collisions
+  - The `hashlib` Package
 
 ### Algorithim Implementation Practice
 - Return Number of Common Elements Between Datasets
