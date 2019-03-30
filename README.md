@@ -39,6 +39,24 @@ Chapter One introduces algorithms conceptually, Chapter Two introduces Python co
   - Avoiding Collisions
   - Addressing Collisions
   - The `hashlib` Package
+  
+### Chapter 8
+ - Different Kinds of Graphs
+ - Drawing a Graph in Python
+ - Measuring Graph Functionality
+   - Counting Edges and Vertexes
+   - Clustering
+   - Computing Centrality
+     - Degree Centrality
+     - Closeness Centrality
+     - Betweenness Centrality
+ - Representing a Graph Numerically
+ 
+ ### Chapter 9
+  - Traversing a Graph Efficiently
+    - The `deque` package
+    - Breadth-First Search
+    - Depth-First Search
 
 ### Algorithim Implementation Practice
 - Return Number of Common Elements Between Datasets
