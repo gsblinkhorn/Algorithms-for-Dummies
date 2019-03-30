@@ -52,11 +52,18 @@ Chapter One introduces algorithms conceptually, Chapter Two introduces Python co
      - Betweenness Centrality
  - Representing a Graph Numerically
  
- ### Chapter 9
-  - Traversing a Graph Efficiently
-    - The `deque` package
-    - Breadth-First Search
-    - Depth-First Search
+### Chapter 9
+ - Traversing a Graph Efficiently
+   - The `deque` package
+   - Breadth-First Search
+   - Depth-First Search
+ - Sorting the Graph Elements
+   - Directed Acyclic Graphs (DAGs)
+   - Topological Sorting
+   
+   
+
+ 
 
 ### Algorithim Implementation Practice
 - Return Number of Common Elements Between Datasets
